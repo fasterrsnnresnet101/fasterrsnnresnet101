@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DJI Spark- Crossroads in Prague-0-00-48-768.jpg</filename>
+	<path>C:\Users\Вадим\Desktop\train\DJI Spark- Crossroads in Prague-0-00-48-768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>641</ymin>
+			<xmax>504</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>301</ymin>
+			<xmax>402</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>301</ymin>
+			<xmax>612</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

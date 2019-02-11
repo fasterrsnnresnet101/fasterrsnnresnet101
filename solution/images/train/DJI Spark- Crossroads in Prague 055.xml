@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>DJI Spark- Crossroads in Prague (06.02.2019 18-25-06)</folder>
+	<filename>DJI Spark- Crossroads in Prague 055.jpg</filename>
+	<path>/home/fest/Загрузки/DJI Spark- Crossroads in Prague (06.02.2019 18-25-06)/DJI Spark- Crossroads in Prague 055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>493</ymin>
+			<xmax>284</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>
